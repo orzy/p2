@@ -9,7 +9,7 @@
  *      * P2_Pager
  *
  *  @version 2.1.6
- *  @see     http://code.google.com/p/p2-php-framework/
+ *  @see     https://github.com/orzy/p2
  *  @license The MIT license (http://www.opensource.org/licenses/mit-license.php)
  */
 abstract class P2_List {

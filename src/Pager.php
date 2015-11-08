@@ -3,7 +3,7 @@
  *  P2_Pager
  *
  *  ※非推奨 -> 代わりに P2_Pager2 を使う
- *  @see http://code.google.com/p/p2-php-framework/source/browse/trunk/Pager2.php
+ *  @see https://github.com/orzy/p2source/browse/trunk/Pager2.php
  *
  *  require
  *      * PEAR::Pager 2.4.5+
@@ -11,7 +11,7 @@
  *      * P2_Log
  *
  *  @version 2.0.2a
- *  @see     http://code.google.com/p/p2-php-framework/
+ *  @see     https://github.com/orzy/p2
  *  @license The MIT license (http://www.opensource.org/licenses/mit-license.php)
  */
 class P2_Pager {

@@ -6,7 +6,7 @@
  *      * P2_Service_Base
  *
  *  @version 2.2.2
- *  @see     http://code.google.com/p/p2-php-framework/
+ *  @see     https://github.com/orzy/p2
  *  @license The MIT license (http://www.opensource.org/licenses/mit-license.php)
  */
 class P2_Service_Flickr extends P2_Service_Base {

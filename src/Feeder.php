@@ -10,7 +10,7 @@
  *      * P2_Loader
  *
  *  @version 2.2.0a
- *  @see     http://code.google.com/p/p2-php-framework/
+ *  @see     https://github.com/orzy/p2
  *  @license The MIT license (http://www.opensource.org/licenses/mit-license.php)
  */
 define('TIME_ZONE', '');    //FeedCreator内での宣言を無効にする

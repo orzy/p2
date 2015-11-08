@@ -9,7 +9,7 @@
  *      * (none)
  *
  *  @version 2.2.5c
- *  @see     http://code.google.com/p/p2-php-framework/
+ *  @see     https://github.com/orzy/p2
  *  @license The MIT license (http://www.opensource.org/licenses/mit-license.php)
  */
 

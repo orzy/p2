@@ -7,7 +7,7 @@
  *      * P2_PublicVars
  *
  *  @version 2.2.7a
- *  @see     http://code.google.com/p/p2-php-framework/
+ *  @see     https://github.com/orzy/p2
  *  @license The MIT license (http://www.opensource.org/licenses/mit-license.php)
  */
 class P2_Service_Base extends P2_PublicVars {

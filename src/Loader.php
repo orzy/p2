@@ -11,7 +11,7 @@
  *      * P2 globalFunctions
  *
  *  @version 2.1.5
- *  @see     http://code.google.com/p/p2-php-framework/
+ *  @see     https://github.com/orzy/p2
  *  @license The MIT license (http://www.opensource.org/licenses/mit-license.php)
  */
 require_once('P2/globalFunctions.php');	//P2内でautoloadを使えるようにするため

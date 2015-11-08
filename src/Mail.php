@@ -8,7 +8,7 @@
  *      * P2_PublicVars
  *
  *  @version 2.2.1
- *  @see     http://code.google.com/p/p2-php-framework/
+ *  @see     https://github.com/orzy/p2
  *  @license The MIT license (http://www.opensource.org/licenses/mit-license.php)
  */
 class P2_Mail extends P2_PublicVars {
